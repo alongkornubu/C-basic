@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\c# basic-beginner\CsBasicBeginner\bin\Debug\net8.0\CsBasicBeginner.exe
+C:\Users\ASUS\Desktop\c# basic-beginner\CsBasicBeginner\bin\Debug\net8.0\CsBasicBeginner.deps.json
+C:\Users\ASUS\Desktop\c# basic-beginner\CsBasicBeginner\bin\Debug\net8.0\CsBasicBeginner.runtimeconfig.json
+C:\Users\ASUS\Desktop\c# basic-beginner\CsBasicBeginner\bin\Debug\net8.0\CsBasicBeginner.dll
+C:\Users\ASUS\Desktop\c# basic-beginner\CsBasicBeginner\bin\Debug\net8.0\CsBasicBeginner.pdb
+C:\Users\ASUS\Desktop\c# basic-beginner\CsBasicBeginner\obj\Debug\net8.0\CsBasicBeginner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\c# basic-beginner\CsBasicBeginner\obj\Debug\net8.0\CsBasicBeginner.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\c# basic-beginner\CsBasicBeginner\obj\Debug\net8.0\CsBasicBeginner.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\c# basic-beginner\CsBasicBeginner\obj\Debug\net8.0\CsBasicBeginner.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\c# basic-beginner\CsBasicBeginner\obj\Debug\net8.0\CsBasicBeginner.dll
+C:\Users\ASUS\Desktop\c# basic-beginner\CsBasicBeginner\obj\Debug\net8.0\refint\CsBasicBeginner.dll
+C:\Users\ASUS\Desktop\c# basic-beginner\CsBasicBeginner\obj\Debug\net8.0\CsBasicBeginner.pdb
+C:\Users\ASUS\Desktop\c# basic-beginner\CsBasicBeginner\obj\Debug\net8.0\CsBasicBeginner.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\c# basic-beginner\CsBasicBeginner\obj\Debug\net8.0\ref\CsBasicBeginner.dll
